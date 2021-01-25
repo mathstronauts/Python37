@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: mathstropy
+Version: 0.0.1.0
+Summary: Python library with functions to make learning more efficient
+Home-page: https://github.com/mathstronauts/mathstropy
+Author: Richard Hamilton
+Author-email: richard.ha@mathstronauts.ca
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pgzero
+
+# Example Package
+
+This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
+
